@@ -1,2 +1,0 @@
-# inventory-sync-service
-prototype
